@@ -1,0 +1,24 @@
+{
+  "name": "proshop",
+  "version": "1.0.0",
+  "description": "A ReactJS shopping application.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon backend/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grahul27/ProShop.git"
+  },
+  "author": "Rahul Guntha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/grahul27/ProShop/issues"
+  },
+  "homepage": "https://github.com/grahul27/ProShop#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.15"
+  }
+}
